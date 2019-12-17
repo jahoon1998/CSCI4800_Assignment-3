@@ -1,5 +1,5 @@
 
-# CSCI 4800 Web Application Devlopment Assignment 3
+# CSCI 4800 Web Application Development Assignment 3
 ## Objective of the Complete Project
 You will design a minimalist version of Twitter 
 
