@@ -1,7 +1,8 @@
-
+## Oct 16, 2018
 # CSCI 4800 Web Application Development Assignment 3
-## Objective of the Complete Project
-### You will design a minimalist version of Twitter 
+
+### Objective of the Complete Project
+You will design a minimalist version of Twitter 
 
 #### Registration
 Sign up
